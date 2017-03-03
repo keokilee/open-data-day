@@ -1,3 +1,5 @@
+Slides: https://slides.com/georgelee/open-data-day-2017
+
 Electric Vehicle Stations:
 https://data.hawaii.gov/dataset/Hawaii-Public-Electric-Vehicle-Charging-Stations/cizq-byyq/data#
 
